@@ -1,0 +1,5 @@
+{
+  "name": "Pilates Finder AI",
+  "description": "Um localizador inteligente de estúdios de Pilates que utiliza IA e Google Maps para encontrar os melhores locais, contatos e informações detalhadas na sua cidade.",
+  "requestFramePermissions": []
+}
